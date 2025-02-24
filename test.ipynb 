@@ -1,0 +1,3 @@
+astros_url = "http://api.open-notify.org/astros.json"
+astros_response = requests.get(astros_url)
+astros_response
